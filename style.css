@@ -172,6 +172,102 @@ span {
 .img-six {
   background: url("Images/Infographics.png") var(--bg-image-center);
 }
+/************ videos ********/
+
+.Infographics-one {
+  background: url("Images/Infographics2.png") var(--bg-image-center);
+}
+.Infographics-two {
+  background: url("Images/Infographics1.png") var(--bg-image-center);
+}
+.Infographics-three {
+  background: url("Images/Infographics3.png") var(--bg-image-center);
+}
+.Infographics-four {
+  background: url("Images/Infographics4.png") var(--bg-image-center);
+}
+.Infographics-five {
+  background: url("Images/Infographics5.png") var(--bg-image-center);
+}
+/******* Documentaries**********/
+.Documentaries-one{
+  background: url("Images/Documentary1.png") var(--bg-image-center);
+}
+.Documentaries-two{
+  background: url("Images/Documentary2.png") var(--bg-image-center);
+}
+.Documentaries-three{
+  background: url("Images/Documentary3.png") var(--bg-image-center);
+}
+.Documentaries-four{
+  background: url("Images/Documentary4.png") var(--bg-image-center);
+}
+.Documentaries-five{
+  background: url("Images/Documentary5.png") var(--bg-image-center);
+}
+/*********education**********/
+.education-one{
+  background: url("Images/Education1.png") var(--bg-image-center);
+}
+.education-two{
+  background: url("Images/Education2.png") var(--bg-image-center);
+}
+.education-three{
+  background: url("Images/Education3.png") var(--bg-image-center);
+}
+.education-four{
+  background: url("Images/Education4.png") var(--bg-image-center);
+}
+/*************Entertainment**********/
+.Entertainment-one{
+  background: url("Images/Entertainment1.png") var(--bg-image-center);
+}
+.Entertainment-two{
+  background: url("Images/Entertainment2.png") var(--bg-image-center);
+}
+.Entertainment-three{
+  background: url("Images/Entertainment3.png") var(--bg-image-center);
+}
+.Entertainment-four{
+  background: url("Images/Entertainment4.png") var(--bg-image-center);
+}
+.Entertainment-five{
+  background: url("Images/Entertainment5.png") var(--bg-image-center);
+}
+.Entertainment-six{
+  background: url("Images/Entertainment6.png") var(--bg-image-center);
+}
+/*************youtube***********/
+.youtube-one{
+  background: url("Images/YOU\ TUBE1.png") var(--bg-image-center);
+}
+.youtube-two{
+  background: url("Images/YOU\ TUBE2.png") var(--bg-image-center);
+}
+.youtube-three{
+  background: url("Images/YOU\ TUBE3.png") var(--bg-image-center);
+}
+.youtube-four{
+  background: url("Images/YOU\ TUBE4.png") var(--bg-image-center);
+}
+.youtube-five{
+  background: url("Images/YOU\ TUBE5.png") var(--bg-image-center);
+}
+.youtube-six{
+  background: url("Images/YOU\ TUBE6.png") var(--bg-image-center);
+}
+.youtube-seven{
+  background: url("Images/YOU\ TUBE7.png") var(--bg-image-center);
+}
+.youtube-eight{
+  background: url("Images/YOU\ TUBE18.png") var(--bg-image-center);
+}
+.youtube-nine{
+  background: url("Images/YOU\ TUBE9.png") var(--bg-image-center);
+}
+.youtube-ten{
+  background: url("Images/YOU\ TUBE10.png") var(--bg-image-center);
+}
 
 /* ******* WHY US ******* */
 .why-us {
@@ -241,7 +337,7 @@ span {
   transform: scale(1.1);
 }
 .owner-image {
-  background: url(Images/Zayn.jpg) no-repeat top/cover;
+  background: url(Images/Why\ abel.png) no-repeat top/cover;
   width: 300px;
   height: 300px;
   margin-right: 10rem;
